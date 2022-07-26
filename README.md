@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Amit Datir.
-- 👀 I’m interested in programming/cloud/big data.
+- 👀 I’m interested in java programming/cloud/big data.
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on java projects.
 - 📫 How to reach me: 
