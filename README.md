@@ -9,3 +9,4 @@ AmitDatir/AmitDatir is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://komarev.com/ghpvc/?username=AmitDatir&color=blueviolet)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Visitors)
