@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java programming/Cloud/Big data.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on java projects.
-- 📫 How to reach me: 
+### [Connect with me 💬](https://www.linkedin.com/in/amit-datir/) 
 
 <!---
 AmitDatir/AmitDatir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
