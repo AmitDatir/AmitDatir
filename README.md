@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Amit Datir.
+- 👋 Hi there, I’m [Amit Datir!](https://bio.link/amitdatir)
 - 👀 I’m interested in Java programming/Cloud/Big data.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on java projects.
