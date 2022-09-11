@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=AmitDatir&color=blueviolet)
 <a href="https://github.com/AmitDatir?tab=Followers">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/AmitDatir?color=green&logo=github">
- 
+</a> 
 - 👀 I’m interested in Java programming/Cloud/Big data.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on java projects.
@@ -12,10 +12,10 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/AmitDatir/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github.com/AmitDatir/" title="Go to Profile">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AmitDatir&theme=react&border=61dafb&hide_border=true" alt="AmitDatir" />
     </a>
-    <a href="https://github.com/AmitDatir/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/AmitDatir?tab=repositories" title="Go to Repositories">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AmitDatir&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
