@@ -3,7 +3,7 @@
 <a href="https://github.com/AmitDatir?tab=Followers">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/AmitDatir?color=green&logo=github">
 </a> 
-- 👀 I’m interested in Java programming/Cloud/Big data.
+- 👀 I’m interested in Java programming/Cloud/AI.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on java projects.
 ### [Connect with me 💬](https://www.linkedin.com/in/amit-datir/) 
